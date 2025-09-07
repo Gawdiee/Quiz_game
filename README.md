@@ -40,9 +40,9 @@ openssl req -new -x509 -days 365 -nodes -out server.crt -keyout server.key
 python3 ippserver.py <IP_address> <Port_Number>
 ```
 ```
-python3 client.py <IP_address> <Port_Number>
+python3 ippclient.py <IP_address> <Port_Number>
 ```
-Change the ip address in the server.py and client.py as well.
+Change the ip address in the ippserver.py and ipp.py as well.
 
 
 
