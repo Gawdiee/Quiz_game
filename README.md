@@ -42,7 +42,7 @@ python3 ippserver.py <IP_address> <Port_Number>
 ```
 python3 ippclient.py <IP_address> <Port_Number>
 ```
-Change the ip address in the ippserver.py and ipp.py as well.
+Change the ip address in the ippserver.py and ippclient.py as well.
 
 
 
